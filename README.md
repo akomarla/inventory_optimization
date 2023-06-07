@@ -1,4 +1,4 @@
-# Modeling and analysing errors in SSD demand forecasts
+# Introduction
 
 Developed a model that predicts errors in the demand forecast for an SSD product using historical demand data<br>
 1. Came up with the idea after learning about limitations in existing models, namely the assumption that demand is normally distributed. Since demand is non-normal in   Solidigm’s SSD supply chain, the current framework needs improvement.<br>
